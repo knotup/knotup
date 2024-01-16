@@ -4,7 +4,7 @@
 
 Welcome to KnotUp.com.np's GitHub repository! 🎉 We're thrilled to unveil the tech stack that powers Nepal's premier eCommerce company. This repository serves as a window into the dynamic and robust foundation we've crafted to build and maintain KnotUp.
 
-## Technologies Used 
+## 🔧Technologies Used 
 
 - **Laravel**: Our backend is powered by the Laravel PHP framework, providing a solid foundation for building scalable and efficient web applications.
 
@@ -60,7 +60,7 @@ Welcome to KnotUp.com.np's GitHub repository! 🎉 We're thrilled to unveil the 
 
 - **Many More**: Our tech stack is diverse, incorporating various tools and technologies to meet the evolving needs of KnotUp.com.np. 😊
 
-## Contributing
+## 🤝Contributing
 
 We welcome contributions from the community! If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request. 🙌
 
@@ -68,7 +68,7 @@ We welcome contributions from the community! If you have ideas, bug reports, or 
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-## Connect with Us
+## 📬Connect with Us
 
 - Visit our website: [KnotUp.com.np](https://www.knotup.com.np)
 - Follow us on social media: [Twitter](https://twitter.com/KnotupOfficial) | [Facebook](https://www.facebook.com/knotup.official)
