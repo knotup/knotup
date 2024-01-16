@@ -2,9 +2,9 @@
 
 # KnotUp.com.np - Nepal's Premier eCommerce Company
 
-Welcome to KnotUp.com.np's GitHub repository! We're excited to share the technologies and tools that power Nepal's premier eCommerce company. This repository serves as a window into the robust and dynamic tech stack we've employed to build and maintain KnotUp.
+Welcome to KnotUp.com.np's GitHub repository! 🎉 We're thrilled to unveil the tech stack that powers Nepal's premier eCommerce company. This repository serves as a window into the dynamic and robust foundation we've crafted to build and maintain KnotUp.
 
-## Technologies Used
+## Technologies Used 
 
 - **Laravel**: Our backend is powered by the Laravel PHP framework, providing a solid foundation for building scalable and efficient web applications.
 
@@ -16,15 +16,21 @@ Welcome to KnotUp.com.np's GitHub repository! We're excited to share the technol
 
 - **HTML, CSS**: Fundamental building blocks for creating the structure and style of our web pages.
 
-- **Python**: Utilized for various backend tasks and automation processes.
+- **Python**: 🐍 Utilized for various backend tasks and automation processes.
 
 - **AWS (Amazon Web Services)**: Cloud computing services for scalable and flexible infrastructure.
 
+- **AWS S3**: Object storage service for scalable and secure data storage. 
+
+- **AWS Elastic Load Balancing (ELB)**: Distributing incoming application traffic across multiple targets, improving the availability and fault tolerance of applications. 🚀
+
 - **MySQL**: A powerful relational database management system for managing our data.
+
+- **Redis**: In-memory data structure store, used as a caching layer for improved performance.
 
 - **Postman**: Simplifying the development and testing of APIs.
 
-- **Docker**: Streamlining the deployment process and ensuring consistency across different environments.
+- **Docker**: 🐳 Streamlining the deployment process and ensuring consistency across different environments.
 
 - **Kubernetes**: Orchestrating containerized applications to automate deployment, scaling, and management.
 
@@ -34,11 +40,13 @@ Welcome to KnotUp.com.np's GitHub repository! We're excited to share the technol
 
 - **Google Cloud**: Leveraging cloud services for various aspects of our infrastructure.
 
+- **Google Firebase**: Platform for building mobile and web applications without managing infrastructure.
+
+- **Google Maps**: Integrating maps and location services for enhanced user experience.
+
 - **Google Analytics**: Gaining insights into user behavior and optimizing our platform based on data-driven decisions.
 
-- **Dart**: A language optimized for building mobile, desktop, server, and web applications.
-
-- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Facebook Pixel**: Tracking user interactions with our website for advertising and analytics.
 
 - **JSON**: A lightweight data-interchange format for easy data exchange between servers and web applications.
 
@@ -46,11 +54,15 @@ Welcome to KnotUp.com.np's GitHub repository! We're excited to share the technol
 
 - **Tableau**: A data visualization tool for transforming raw data into an understandable format.
 
+- **Payment Gateways**: Integrating various payment gateways for seamless transactions. (e.g., Khalti, eSewa, IME pay, Connect IPS, SCT Card, PayPal, Stripe,  etc.) 💳
+
+- **SMS Gateways**: Utilizing SMS gateways for communication and transactional alerts. (e.g., Sparrow SMS, Twilio, etc.) 📱
+
 - **Many More**: Our tech stack is diverse, incorporating various tools and technologies to meet the evolving needs of KnotUp.com.np. 😊
 
 ## Contributing
 
-We welcome contributions from the community! If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request. 😄
+We welcome contributions from the community! If you have ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request. 🙌
 
 ## License
 
@@ -61,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE) - see the LICENSE file
 - Visit our website: [KnotUp.com.np](https://www.knotup.com.np)
 - Follow us on social media: [Twitter](https://twitter.com/KnotupOfficial) | [Facebook](https://www.facebook.com/knotup.official)
 
-Thank you for exploring KnotUp.com.np's GitHub repository. We look forward to your involvement and feedback! 😎
+Thank you for exploring KnotUp.com.np's GitHub repository. We look forward to your involvement and feedback! 😎✨
